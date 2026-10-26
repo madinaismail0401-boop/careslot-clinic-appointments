@@ -1,0 +1,7 @@
+node_modules/
+dist/
+server/clinic.sqlite
+server/clinic.sqlite-shm
+server/clinic.sqlite-wal
+.env
+.DS_Store
